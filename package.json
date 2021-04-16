@@ -1,5 +1,5 @@
 {
-  "name": "slack-cli",
+  "name": "@lenne.tech/slack-cli",
   "version": "0.0.1",
   "description": "A fork from rockymadden/slack-cli",
   "bin": {
