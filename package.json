@@ -1,0 +1,31 @@
+{
+  "name": "slack-cli",
+  "version": "0.0.1",
+  "description": "A fork from rockymadden/slack-cli",
+  "bin": {
+    "slack-cli": "src/slack"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenneTech/slack-cli.git"
+  },
+  "keywords": [
+    "slack",
+    "cli",
+    "tool",
+    "awesome"
+  ],
+  "author": "Pascal Klesse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenneTech/slack-cli/issues"
+  },
+  "homepage": "https://github.com/lenneTech/slack-cli#readme",
+  "dependencies": {}
+}
